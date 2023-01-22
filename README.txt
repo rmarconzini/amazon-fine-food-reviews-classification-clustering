@@ -19,11 +19,7 @@
 	- Example: Random Forest for MULTIclass task and BOW representation: Model_estimated/Multiclass_classification/BOW/rf_gridsearch_BOW
 5) In the [Results] folder you can find the results dataframe for both tasks, binary and multiclass classification and all representation.
 
-6) Clustering.ipynb is the notebook with the step for Clustering task
-	- You just need to change the dataset path and everything is ready to go
-	- You have to load the df_lemmatized.csv dataset
-
-7) Classification.ipynb is the notebook withthe step for Classification task. The notebook is divided into two main sections: 
+6) Classification.ipynb is the notebook withthe step for Classification task. The notebook is divided into two main sections: 
 	- Multiclass Classification
 	- Binary Classification
    Within each of the sections you can find the following subsections: 
@@ -37,3 +33,7 @@
 		- Set path and load 'Dataset_BOW/X_train_BOW.npy' and 'Dataset_BOW/X_test_BOW.npy'
 		- For each models: set 'path' and load 'Model_estimated/Multiclass_classification/BOW/'model'_gridsearch_BOW'
 	- This procedure is valid for both tasks, all representations and all models (attention, there may be some typos)
+
+7) Clustering.ipynb is the notebook with the step for Clustering task
+	- You just need to change the dataset path and everything is ready to go
+	- You have to load the df_lemmatized.csv dataset
