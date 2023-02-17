@@ -32,15 +32,13 @@ The project aims to answer the following questions:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/rmarconzini/amazon-fine-food-reviews-classification-clusterings.svg?style=for-the-badge
-[contributors-url]: https://github.com/rmarconzini/amazon-fine-food-reviews-classification-clusterings
+[contributors-url]: https://github.com/rmarconzini/amazon-fine-food-reviews-classification-clustering/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/rmarconzini/amazon-fine-food-reviews-classification-clusterings.svg?style=for-the-badge
-[forks-url]: https://github.com/rmarconzini/amazon-fine-food-reviews-classification-clusterings/network/members
+[forks-url]:https://github.com/rmarconzini/amazon-fine-food-reviews-classification-clustering/network/members
 [stars-shield]: https://img.shields.io/github/stars/rmarconzini/amazon-fine-food-reviews-classification-clusterings.svg?style=for-the-badge
-[stars-url]: https://github.com/rmarconzini/amazon-fine-food-reviews-classification-clusterings/stargazers
+[stars-url]: https://github.com/rmarconzini/amazon-fine-food-reviews-classification-clustering/stargazers
 [issues-shield]: https://img.shields.io/github/issues/rmarconzini/amazon-fine-food-reviews-classification-clusterings.svg?style=for-the-badge
-[issues-url]: https://github.com/rmarconzini/amazon-fine-food-reviews-classification-clusterings/issues
-[license-shield]: https://img.shields.io/github/license/rmarconzini/amazon-fine-food-reviews-classification-clusterings.svg?style=for-the-badge
-[license-url]: https://github.com/rmarconzini/amazon-fine-food-reviews-classification-clusterings/blob/master/LICENSE
+[issues-url]: https://github.com/rmarconzini/amazon-fine-food-reviews-classification-clustering/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/remo-marconzini-992941152/
 [product-screenshot]: images/screenshot.png
